@@ -6,7 +6,6 @@ iframe{
     align-items: center;
     justify-content: center;
     margin-bottom: 30px;
-    max-width:600px
 }
 @media only screen and (max-width: 800px) {
     iframe{
